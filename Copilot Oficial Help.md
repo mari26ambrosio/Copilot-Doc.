@@ -1,12 +1,11 @@
-Sugestão Davi:
-
 # Abrir chamados para o suporte VTEX
+Doc ref.: https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM
 
-Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do  [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
+Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do  [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets. [podemos manter conforme doc original - já está] 
 
-É necessário  [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)  no  [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)  para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
+É necessário  [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)  no  [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)  para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil. [podemos manter conforme doc original - já está] 
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo  [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo  [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). [podemos manter conforme doc original - já está] 
 
 Ele está dividido nas etapas a seguir:
 
