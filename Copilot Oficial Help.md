@@ -1,4 +1,91 @@
+Sugestão Davi:
+
 # Abrir chamados para o suporte VTEX
+
+Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do  [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
+
+É necessário  [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)  no  [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)  para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
+
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo  [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+
+Ele está dividido nas etapas a seguir:
+
+1.  [Realizar login na conta](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta)
+2.  [Vamos começar](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-vamos-comecar)
+3.  [Conversando com o Copilot](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#3-o-que-voce-precisa)
+4.  [Solicitando a abertura de um chamado](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#3-o-que-voce-precisa)
+5.  [Acompanhar status dos chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
+
+
+## [1. Realizar login na sua conta](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta)
+
+Para acessar o Copilot e começar a usá-lo, siga os passos abaixo:
+
+1.  Abra o navegador e digite o endereço do admin: https://{{sua conta}}.myvtex.com/admin (substitua {{sua conta}} pelo nome de sua conta VTEX).
+2.  Login com suas credenciais de acesso conforme configurado para sua conta (Acesso por token, enviado para o e-mail cadastrado na loja e login com o Google)
+
+Após realizar o login, você estará pronto para utilizar o suporte oferecido pelo Copilot.
+
+## [2. Vamos começar](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-vamos-comecar)
+
+Localize o ícone do Copilot na barra superior de navegação, no canto direito, e clique nele para começar sua interação com o Copilot.
+
+1.  Clique no botão "Faça sua pergunta".
+2.  Clique no botão de idioma desejado para o atendimento.
+3.  Selecione o tipo de cenário que necessita ajuda. Existem três opções disponíveis, são elas:
+    -   _Tenho uma dúvida_
+    -   _Tenho um cenário inesperado_
+    -   _Preciso de uma configuração por parte da VTEX_
+4.  Após selecionar.
+5.  Clique no botão  Continuar  para seguir para a próxima etapa.
+
+Será se precisa desse tópico a seguir? Escrevi e achei piegas>>
+
+## [3. Conversando com o Copilot](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta)
+
+Para que o Copilot possa ajudá-lo de maneira eficaz, siga estas etapas ao solicitar ajuda:
+
+- Explique o que você está tentando fazer ou resolver: Inclua detalhes relevantes, como o contexto, etapas realizadas até agora e o comportamento esperado.
+- Descreva o problema: Indique o que está dando errado, como mensagens de erro, comportamentos inesperados ou dificuldades específicas.
+- Informe os recursos já utilizados: Especifique se você já realizou testes e quais foram os resultados.
+
+Com essas informações, o Copilot poderá oferecer respostas mais precisas para te auxiliar.
+
+## [4. Solicitando a abertura de chamado](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta)
+
+Ajustar de acordo com o forms de abertura>>
+
+## [5. O que você precisa?](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#3-o-que-voce-precisa)
+
+O suporte técnico orienta o usuário como solucionar problemas ou perguntas com relação à plataforma.
+
+Ao selecionar essa opção de suporte, você precisa preencher as informações descritas no passo a passo abaixo:
+
+1.  No campo  **Tipo de problema**, você deve definir o tipo de problema que necessita ajuda. Existem três opções disponíveis, são elas:
+    -   _A loja está enfrentando um problema ou comportamento inesperado_
+    -   _Tenho uma dúvida e gostaria de fazer uma pergunta_
+    -   _Gostaria de solicitar uma configuração_
+2.  No campo  **Assunto da solicitação**, preencha com informações relacionadas ao tipo de problema que você precisa de ajuda. Baseada na descrição do seu problema, iremos indicar alguns artigos do  [Help Center](https://help.vtex.com/pt/)  que podem ajudar a solucionar seu problema. Caso você entenda que nenhum artigo pode ajudar a resolver o problema, siga para o próximo passo.![https help.vtex.com pt support](https://images.ctfassets.net/alneenqid6w5/1R5JgnPNiJWbG8IDU0MQmm/ae29e8a323aae90c3e6cb11b36baed8d/https___help.vtex.com_pt_support.gif)
+3.  Clique no botão  Continuar. Você será direcionado para outra página.
+4.  No campo  **Impacto do problema**, selecione a opção que melhor corresponde ao impacto do problema:
+    -   _Recursos auxiliares da loja estão se comportando indevidamente_
+    -   _Recursos importantes da loja estão se comportando indevidamente_
+    -   _Recursos críticos da loja estão se comportando indevidamente_
+5.  No campo  **Usuários impactados pelo problema**, selecione a opção que melhor corresponde a gravidade do impacto do problema:
+    -   _Usuários do painel administrativo_
+    -   _Compradores, consumidores ou usuários finais_
+    -   _Todos os usuários_
+6.  Clique no botão  Continuar.
+7.  No campo  **Sua experiência com a plataforma**, selecione a opção que melhor corresponde ao seu nível de experiência na plataforma VTEX:
+    -   _Conheço recursos básicos. Estou aprendendo_
+    -   _Sei tudo o que preciso para fazer bem meu trabalho_
+    -   _Sou experiente, conheço recursos avançados_
+8.  No campo  **Descreva o que aconteceu detalhadamente**, escreva os detalhes sobre o problema que está acontecendo na sua loja.
+9.  No campo  **Escolha um arquivo**  é possível enviar arquivos de todos os tipos para ajudar o contextualizar o Suporte sobre o problema que está ocorrendo.
+10.  Sugerimos deixar a opção  Eu aceito que a solução do meu problema/dúvida seja compartilhada anonimamente com a VTEX  marcada. Dessa forma, você aumenta o impacto dessa solução evitando que outras lojas do ecossistema VTEX passem pelo mesmo problema.
+11.  Para finalizar, clique no botão  Enviar.
+
+<!--# Abrir chamados para o suporte VTEX
 
 Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do  [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
@@ -68,7 +155,7 @@ Ao selecionar essa opção de suporte, você precisa preencher as informações 
 8.  No campo  **Descreva o que aconteceu detalhadamente**, escreva os detalhes sobre o problema que está acontecendo na sua loja.
 9.  No campo  **Escolha um arquivo**  é possível enviar arquivos de todos os tipos para ajudar o contextualizar o Suporte sobre o problema que está ocorrendo.
 10.  Sugerimos deixar a opção  Eu aceito que a solução do meu problema/dúvida seja compartilhada anonimamente com a VTEX  marcada. Dessa forma, você aumenta o impacto dessa solução evitando que outras lojas do ecossistema VTEX passem pelo mesmo problema.
-11.  Para finalizar, clique no botão  Enviar.
+11.  Para finalizar, clique no botão  Enviar.//-->
 
 ### [Financeiro](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financeiro)
 
