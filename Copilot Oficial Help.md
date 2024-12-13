@@ -53,7 +53,10 @@ Com essas informações, o Copilot poderá oferecer respostas mais precisas para
 
 ## [4. Solicitando a abertura de chamado](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta)
 
-Ajustar de acordo com o forms de abertura>>
+Se, mesmo após conversar com o Copilot, sua dúvida não foi resolvida, siga os passos abaixo para abrir um chamado:
+- Clique no botão "Falar com uma pessoa"
+- Insira o código OTP enviado para seu e-mail
+- Após validado o código, clique em "Criar ticket" para registrar sua solicitação de suporte.
 
 ## [5. O que você precisa?](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#3-o-que-voce-precisa)
 
@@ -61,29 +64,26 @@ O suporte técnico orienta o usuário como solucionar problemas ou perguntas com
 
 Ao selecionar essa opção de suporte, você precisa preencher as informações descritas no passo a passo abaixo:
 
-1.  No campo  **Tipo de problema**, você deve definir o tipo de problema que necessita ajuda. Existem três opções disponíveis, são elas:
-    -   _A loja está enfrentando um problema ou comportamento inesperado_
-    -   _Tenho uma dúvida e gostaria de fazer uma pergunta_
-    -   _Gostaria de solicitar uma configuração_
-2.  No campo  **Assunto da solicitação**, preencha com informações relacionadas ao tipo de problema que você precisa de ajuda. Baseada na descrição do seu problema, iremos indicar alguns artigos do  [Help Center](https://help.vtex.com/pt/)  que podem ajudar a solucionar seu problema. Caso você entenda que nenhum artigo pode ajudar a resolver o problema, siga para o próximo passo.![https help.vtex.com pt support](https://images.ctfassets.net/alneenqid6w5/1R5JgnPNiJWbG8IDU0MQmm/ae29e8a323aae90c3e6cb11b36baed8d/https___help.vtex.com_pt_support.gif)
-3.  Clique no botão  Continuar. Você será direcionado para outra página.
+1. Título
+2.  No campo  **Descrição**, escreva os detalhes sobre o problema que está acontecendo na sua loja.
+3.  No campo  **Sua experiência com a plataforma**, selecione a opção que melhor corresponde ao seu nível de experiência na plataforma VTEX:
+    -   _Conheço recursos básicos. Estou aprendendo_
+    -   _Sei tudo o que preciso para fazer bem meu trabalho_
+    -   _Sou experiente, conheço recursos avançados_
+5. Agência
+6.  No campo  **Usuários impactados pelo problema**, selecione a opção que melhor corresponde a gravidade do impacto do problema:
+    -   _Usuários do painel administrativo_
+    -   _Compradores, consumidores ou usuários finais_
+    -   _Todos os usuários_
 4.  No campo  **Impacto do problema**, selecione a opção que melhor corresponde ao impacto do problema:
     -   _Recursos auxiliares da loja estão se comportando indevidamente_
     -   _Recursos importantes da loja estão se comportando indevidamente_
     -   _Recursos críticos da loja estão se comportando indevidamente_
-5.  No campo  **Usuários impactados pelo problema**, selecione a opção que melhor corresponde a gravidade do impacto do problema:
-    -   _Usuários do painel administrativo_
-    -   _Compradores, consumidores ou usuários finais_
-    -   _Todos os usuários_
-6.  Clique no botão  Continuar.
-7.  No campo  **Sua experiência com a plataforma**, selecione a opção que melhor corresponde ao seu nível de experiência na plataforma VTEX:
-    -   _Conheço recursos básicos. Estou aprendendo_
-    -   _Sei tudo o que preciso para fazer bem meu trabalho_
-    -   _Sou experiente, conheço recursos avançados_
-8.  No campo  **Descreva o que aconteceu detalhadamente**, escreva os detalhes sobre o problema que está acontecendo na sua loja.
-9.  No campo  **Escolha um arquivo**  é possível enviar arquivos de todos os tipos para ajudar o contextualizar o Suporte sobre o problema que está ocorrendo.
+6.  Environment where the problem is occurring*
+7.  Problem type
+9.  No campo  **Evidência**  é possível enviar arquivos de todos os tipos para ajudar o contextualizar o Suporte sobre o problema que está ocorrendo.
 10.  Sugerimos deixar a opção  Eu aceito que a solução do meu problema/dúvida seja compartilhada anonimamente com a VTEX  marcada. Dessa forma, você aumenta o impacto dessa solução evitando que outras lojas do ecossistema VTEX passem pelo mesmo problema.
-11.  Para finalizar, clique no botão  Enviar.
+11.  Para finalizar, clique no botão  Criar ticket de suporte.
 
 <!--# Abrir chamados para o suporte VTEX
 
