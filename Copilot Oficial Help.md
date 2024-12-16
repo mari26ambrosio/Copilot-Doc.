@@ -92,6 +92,35 @@ Ao clicar em "Criar ticket", preencha as informações conforme descrito no pass
 
 ### Suporte Financeiro e Comercial
 
+Estão divididos nas etapas a seguir:
+
+1.  Autenticar sua conta [inserir link para o tópico em questão]
+2.  Abertura de chamado com os times [inserir link para o tópico em questão]
+
+## 1. Autenticar sua conta [inserir link para o tópico em questão]
+
+Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga os passos a seguir:
+
+1.  Acesse o  [Suporte VTEX](https://help.vtex.com/pt/support).
+2.  Escolha uma opção para autenticar sua conta, são três opções disponíveis:
+    -   Acesso por token, enviado para o e-mail cadastrado na loja. Login com o Google.
+3.  Login usando e-mail e senha, que exige  [autenticação de 2 fatores](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores)  por aplicativo ou SMS.
+
+Depois de realizar a autenticação, você será direcionado à próxima etapa.
+
+## 2. Abertura de chamados com os times [inserir link para o tópico em questão]
+
+Depois de autenticar sua conta, você precisará se identificar à equipe de suporte. É necessário preencher os campos obrigatórios listados abaixo.
+
+1.  Preencha o campo  **Nome**  com seu nome e sobrenome.
+2.  Selecione no campo  **Conta**  a opção que corresponde a loja que você está solicitando suporte.
+3.  Clique no botão  Continuar  para seguir para a próxima etapa.
+
+É necessário selecionar o tipo de ajuda do Suporte VTEX que sua loja necessita:
+
+- Financeiro [inserir link para o tópico em questão]
+- Comercial [inserir link para o tópico em questão]
+
 ### [Financeiro](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financeiro)
 
 O suporte financeiro orienta o usuário como solucionar problemas de contrato ou questões financeiras relativas às lojas e à VTEX.
@@ -115,8 +144,6 @@ Ao selecionar essa opção de suporte, siga os passos abaixo:
 3.  No campo  **Descreva o que aconteceu detalhadamente**, escreva mais detalhes sobre sua solicitação.
 4.  Clique em  Enviar.
 
-[podemos manter conforme doc original - já está. education pode validar com o financeiro] 
-
 ### [Comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#comercial)
 
 O suporte comercial apoia o usuário com solicitações referentes à  [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), a  [ambientes adicionais](https://help.vtex.com/pt/tutorial/contratar-novo-ambiente--tutorials_2542), a  [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa)  ou à  [alteração de usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)  com o perfil Sponsor user (Master Admin user).
@@ -133,9 +160,7 @@ Ao selecionar essa opção de suporte, siga os passos abaixo:
 3.  Preencha os campos de acordo com o  **Assunto da solicitação**  selecionado.
 4.  Clique em  Enviar.
 
-[podemos manter conforme doc original - já está. education pode validar com o comercial]
-
-## [4. Acompanhar status dos chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
+## [Acompanhar status dos chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
 
 Depois de abrir um chamado, é possível acompanhá-lo no  [Histórico de solicitações](https://support.vtex.com/hc/pt-br/requests)  no Suporte VTEX. Na página do Histórico de solicitações, você encontra um campo de busca para localizar suas solicitações pelo ID do chamado que foi aberto, além de um filtro com os status disponíveis.
 
