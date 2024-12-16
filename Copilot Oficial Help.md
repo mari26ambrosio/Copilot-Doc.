@@ -28,7 +28,7 @@ Nessa etapa inicial, você deverá autenticar seu acesso ao Admin VTEX. O [Admin
 
 A página inicial oferece uma visão geral de alto nível da sua loja e nela você encontrará o botão de atendimento com o nosso Suporte: o Copilot.
 
-[GIF que fizemos]
+![enter image description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ2dnRtenIxaW1yMXgydGFxdXl4MzBza2F4ZTU0a3p5cHM5MG10NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ULhGDHiEygikmMnCW/giphy.gif)
 
 O Copilot está disponível para todos os usuários da conta. No entanto, para abrir chamados, é necessário que o usuário tenha a autorização ativada no License Manager.
 
