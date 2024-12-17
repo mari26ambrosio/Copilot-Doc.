@@ -20,7 +20,8 @@ Ele está dividido nas etapas a seguir:
 2.  Vamos começar [inserir link para o tópico em questão]
 3.  Conversando com o Copilot [inserir link para o tópico em questão]
 4.  Solicitando a abertura de um chamado [inserir link para o tópico em questão]
-5.  Acompanhar status dos chamados [inserir link para o tópico em questão]
+5.  O que você precisa? [inserir link para o tópico em questão]
+6.  Acompanhar status dos chamados [inserir link para o tópico em questão]
 
 ### 1. Realizar login na sua conta [inserir link para o tópico em questão]
 
@@ -32,7 +33,7 @@ A página inicial oferece uma visão geral de alto nível da sua loja e nela voc
 
 O Copilot está disponível para todos os usuários da conta. No entanto, para abrir chamados, é necessário que o usuário tenha a autorização ativada no License Manager.
 
-## 2. Vamos começar [inserir link para o tópico em questão]
+### 2. Vamos começar [inserir link para o tópico em questão]
 
 Clique no botão do Copilot, localizado no canto direito da barra superior de navegação, para iniciar sua interação. 
 
@@ -43,7 +44,7 @@ Clique no botão do Copilot, localizado no canto direito da barra superior de na
     -   _Tenho um cenário inesperado_
     -   _Preciso de uma configuração por parte da VTEX_
 
-## 3. Conversando com o Copilot [inserir link para o tópico em questão]
+### 3. Conversando com o Copilot [inserir link para o tópico em questão]
 
 Para que o Copilot possa ajudá-lo de forma eficiente, siga estas etapas ao pedir assistência:
 
@@ -53,7 +54,7 @@ Para que o Copilot possa ajudá-lo de forma eficiente, siga estas etapas ao pedi
 
 Essas informações permitirão que o Copilot ofereça respostas mais precisas e úteis para resolver sua questão.
 
-## 4. Solicitando a abertura de chamado [inserir link para o tópico em questão]
+### 4. Solicitando a abertura de chamado [inserir link para o tópico em questão]
 
 Se sua dúvida permanecer mesmo após a interação com o Copilot, ao final da conversa será exibida a opção de abrir um chamado. Para isso, siga estas etapas:
 
@@ -61,7 +62,7 @@ Se sua dúvida permanecer mesmo após a interação com o Copilot, ao final da c
 2. Insira o código OTP enviado para seu e-mail
 3. Clique em "Criar ticket" para iniciar o registro da sua solicitação de suporte.
 
-## 5. O que você precisa? [inserir link para o tópico em questão]
+### 5. O que você precisa? [inserir link para o tópico em questão]
 
 Ao clicar em "Criar ticket", preencha as informações conforme descrito no passo a passo a seguir:
 
@@ -90,18 +91,19 @@ Ao clicar em "Criar ticket", preencha as informações conforme descrito no pass
 9. **Evidência**:  Envie arquivos de qualquer formato para ajudar a contextualizar o Suporte sobre o problema que está ocorrendo.
 10. Clique no botão "Criar ticket de suporte"
 
-## [Acompanhar status dos chamados de suporte técnico](link)
+### 6. Acompanhar status dos chamados de suporte técnico [inserir link para o tópico em questão]
 
-O acompanhamento dos chamados do suporte técnico será realizado exclusivamente via e-mail. Após a abertura, você receberá uma confirmação com o número do protocolo e todas as atualizações serão enviadas para o e-mail cadastrado. Verifique regularmente sua caixa de entrada, incluindo a pasta de spam. Para dúvidas, basta responder ao e-mail recebido.
+O acompanhamento dos chamados de suporte técnico será feito apenas por e-mail. Após abrir um chamado, você receberá uma confirmação com o número do atendimento, e todas as atualizações serão enviadas para o e-mail registrado. Verifique sua caixa de entrada regularmente, incluindo a caixa de spam. Para dar continuidade ao atendimento, basta responder ao e-mail.
 
-### Suporte Financeiro e Comercial
+## Suporte Financeiro e Comercial
 
 Estão divididos nas etapas a seguir:
 
 1.  Autenticar sua conta [inserir link para o tópico em questão]
 2.  Abertura de chamado com os times [inserir link para o tópico em questão]
+3.  Acompanhar status dos chamados de suporte financeiro e comercial [inserir link para o tópico em questão]
 
-## 1. Autenticar sua conta [inserir link para o tópico em questão]
+### 1. Autenticar sua conta [inserir link para o tópico em questão]
 
 Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga os passos a seguir:
 
@@ -112,7 +114,7 @@ Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga o
 
 Depois de realizar a autenticação, você será direcionado à próxima etapa.
 
-## 2. Abertura de chamados com os times [inserir link para o tópico em questão]
+### 2. Abertura de chamados com os times [inserir link para o tópico em questão]
 
 Depois de autenticar sua conta, você precisará se identificar à equipe de suporte. É necessário preencher os campos obrigatórios listados abaixo.
 
@@ -125,7 +127,7 @@ Depois de autenticar sua conta, você precisará se identificar à equipe de sup
 - Financeiro [inserir link para o tópico em questão]
 - Comercial [inserir link para o tópico em questão]
 
-### [Financeiro](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financeiro)
+#### [Financeiro](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financeiro)
 
 O suporte financeiro orienta o usuário como solucionar problemas de contrato ou questões financeiras relativas às lojas e à VTEX.
 
@@ -148,7 +150,7 @@ Ao selecionar essa opção de suporte, siga os passos abaixo:
 3.  No campo  **Descreva o que aconteceu detalhadamente**, escreva mais detalhes sobre sua solicitação.
 4.  Clique em  Enviar.
 
-### [Comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#comercial)
+#### [Comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#comercial)
 
 O suporte comercial apoia o usuário com solicitações referentes à  [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), a  [ambientes adicionais](https://help.vtex.com/pt/tutorial/contratar-novo-ambiente--tutorials_2542), a  [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa)  ou à  [alteração de usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)  com o perfil Sponsor user (Master Admin user).
 
@@ -164,7 +166,7 @@ Ao selecionar essa opção de suporte, siga os passos abaixo:
 3.  Preencha os campos de acordo com o  **Assunto da solicitação**  selecionado.
 4.  Clique em  Enviar.
 
-## [Acompanhar status dos chamados de suporte financeiro e comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
+### 3. [Acompanhar status dos chamados de suporte financeiro e comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
 
 Depois de abrir um chamado, é possível acompanhá-lo no  [Histórico de solicitações](https://support.vtex.com/hc/pt-br/requests)  no Suporte VTEX. Na página do Histórico de solicitações, você encontra um campo de busca para localizar suas solicitações pelo ID do chamado que foi aberto, além de um filtro com os status disponíveis.
 
@@ -178,5 +180,3 @@ Os status possíveis de um chamado são:
 -   **Fechado**: chamado marcado como Resolvido e, por não ter recebido nova interação após 27 horas úteis, foi automaticamente fechado. Não pode ser reaberto.
 
 Depois que os chamados são resolvidos, a equipe de suporte envia um email para o usuário com o link para uma  [Pesquisa de Satisfação](https://help.vtex.com/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Através dela, é possível avaliar o atendimento do nosso suporte sem sair do ambiente VTEX e nos ajudar a melhorar nossa experiência.
-
-[confirmar se essa parte permance igual]
