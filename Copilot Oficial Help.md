@@ -90,6 +90,10 @@ Ao clicar em "Criar ticket", preencha as informações conforme descrito no pass
 9. **Evidência**:  Envie arquivos de qualquer formato para ajudar a contextualizar o Suporte sobre o problema que está ocorrendo.
 10. Clique no botão "Criar ticket de suporte"
 
+## [Acompanhar status dos chamados de suporte técnico](link)
+
+O acompanhamento dos chamados do suporte técnico será realizado exclusivamente via e-mail. Após a abertura, você receberá uma confirmação com o número do protocolo e todas as atualizações serão enviadas para o e-mail cadastrado. Verifique regularmente sua caixa de entrada, incluindo a pasta de spam. Para dúvidas, basta responder ao e-mail recebido.
+
 ### Suporte Financeiro e Comercial
 
 Estão divididos nas etapas a seguir:
@@ -160,7 +164,7 @@ Ao selecionar essa opção de suporte, siga os passos abaixo:
 3.  Preencha os campos de acordo com o  **Assunto da solicitação**  selecionado.
 4.  Clique em  Enviar.
 
-## [Acompanhar status dos chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
+## [Acompanhar status dos chamados de suporte financeiro e comercial](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)
 
 Depois de abrir um chamado, é possível acompanhá-lo no  [Histórico de solicitações](https://support.vtex.com/hc/pt-br/requests)  no Suporte VTEX. Na página do Histórico de solicitações, você encontra um campo de busca para localizar suas solicitações pelo ID do chamado que foi aberto, além de um filtro com os status disponíveis.
 
