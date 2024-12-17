@@ -22,7 +22,7 @@ Ele está dividido nas etapas a seguir:
 4.  Solicitando a abertura de um chamado [inserir link para o tópico em questão]
 5.  Acompanhar status dos chamados [inserir link para o tópico em questão]
 
-## 1. Realizar login na sua conta [inserir link para o tópico em questão]
+# 1. Realizar login na sua conta [inserir link para o tópico em questão]
 
 Nessa etapa inicial, você deverá autenticar seu acesso ao Admin VTEX. O [Admin](https://help.vtex.com/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) permite que os comerciantes gerenciem toda sua experiência de comércio digital em um só lugar, de uma maneira simples e inteligente. 
 
