@@ -12,7 +12,7 @@ A seguir estão os três tipos de suporte oferecidos:
  - Financeiro [inserir link para o tópico em questão]
  - Comercial [inserir link para o tópico em questão]
 
-### Suporte Técnico
+## Suporte Técnico
  
 Ele está dividido nas etapas a seguir:
 
